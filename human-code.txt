@@ -20,10 +20,12 @@ Abbiamo già acceso la TV e Netflix, e siamo in 5 amici che devono scegliere cos
             -si prende il genere con la maggioranza 
             -Selezioniamo la sezione del genere scelto
 
-            FINCHE' La maggioranza non è d'accordo 
+            FINCHE' La maggioranza non è d'accordo, per una durata di 10minuti
                 -Si scrollano i Titoli presenti leggendo le trame
-
-            -Si guarda il film che ha avuto la votazione maggiore
+            
+                -Si guarda il film che ha avuto la votazione maggiore
+            altrimenti
+                -Si guarda il primo che capita
 
     ALTRIMENTI Si sceglie SerieTV
         -Votazione genere
@@ -40,10 +42,12 @@ Abbiamo già acceso la TV e Netflix, e siamo in 5 amici che devono scegliere cos
             -si prende il genere con la maggioranza 
             -Selezioniamo la sezione del genere scelto
 
-            FINCHE' La maggioranza non è d'accordo 
+            FINCHE' La maggioranza non è d'accordo, per una durata di 10minuti
                 -Si scrollano i Titoli presenti leggendo le trame
 
-            -Si guarda la SerieTV che ha avuto la votazione maggiore
+                -Si guarda la serie tva che ha avuto la votazione maggiore
+            altrimenti
+                -Si guarda la prima che capita
 
 Che dicono le altre persone?
 
